@@ -64,6 +64,7 @@ the first quantile of the c52 is 58 and the third quantile of c39 data id 54.75.
 t.test(VitC~Cult,data=veggy)
 ```
 
+The P value is .00000003405, that is a really small number. This tells us that c52 is a better method because that is a really rare occurrance. We reject the hypothesis that they don't produce the same amount of vitamin c because the chances of getting results like this is a really smal number. It shows statistically that the c52 method makes more vitamin c.
 
 # Discussion and Conclusion
 
