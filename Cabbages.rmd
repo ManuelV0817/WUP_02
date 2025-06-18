@@ -53,6 +53,7 @@ The c52 cultivation produces a lot more vitamin c because the interquartile sect
 favstats(VitC~Cult,data=veggy)
 ```
 
+the first quantile of the c52 is 58 and the third quantile of c39 data id 54.75.
 
 ## Inferential Results
 
