@@ -38,10 +38,12 @@ veggy <- cabbages
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
+
 ```{r}
 boxplot(VitC~Cult,data=veggy)
 ```
 
+The c52 cultivation produces a lot more vitamin c because the interquartile section is  lot higher on the chart.
 
 ### Numerical Descriptive Results
 
